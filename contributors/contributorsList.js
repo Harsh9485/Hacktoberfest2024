@@ -1,8 +1,8 @@
 contributors = [
   {
     id: 1,
-    fullname: "Anmol Agarwal",
-    username: "https://github.com/fineanmol",
+    fullname: "Harsh Panwar",
+    username: "https://github.com/Harsh9485",
   },
 
   {
